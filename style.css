@@ -1,0 +1,28 @@
+html{
+	height:100%;
+}
+
+body {
+	height:200%;
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	margin:0;
+	padding: 0;
+}
+
+#section-one {
+	height: 50%;
+	background-color: rgb(211, 235, 178)
+}
+
+#section-two {
+	height: 50%;
+	background-color: rgb(139, 203, 222);
+}
+
+.no-top {
+	margin-top:0;
+}
